@@ -1,15 +1,17 @@
+
+## Author: shantiCreation
 ## This file contains two functions:
-## makeCacheMatrix and cacheSolve. 
+## makeCacheMatrix and cacheSolve and instruction on how to test these functions (see below)
 ##
 ## makeCacheMatrix will create matrix object that have built-in methods.
 ##
-## casheSolve function will always check weather inverse matrix already exists,
+## casheSolve function will always check wether inverse matrix already exists,
 ## if it does it will return previously stored inverse matrix, if not it will 
 ## calculate the value of inverse matrix and sets it in memory
-
-## makeCasheMatrix functions will build a matrix that have four inbuilt functions/methods that
+## ----------------------------------------------------------------------------
+## makeCasheMatrix functions will build a matrix that have four built-in functions/methods that
 ## one can use to do the following:
-## 1.   set the matrix with data. In this example it is always deals with square matrix that
+## 1.   set the matrix with data. In this example it always deals with square matrix that
 ##      could be inversed by using solve() function.
 ## 2.   get the value of the matrix
 ## 3.   setinverse  - sets inverse matrix
